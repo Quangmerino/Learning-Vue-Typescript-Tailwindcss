@@ -579,7 +579,7 @@
         <div class ="w-[1441.1962890625px] h-[611px] absolute left-[89px] top-[1038px]">
           <div class ="w-[393px] h-[128px] absolute left-[0px] top-[189px]
                       font-[Poppins] text-[40px] leading-[160%] font-semibold text-[#2F327D]">
-            <span class ="text-[green]">Tools</span> For Teachers And Learners
+            <span class ="text-[#49BBBD]">Tools</span> For Teachers And Learners
           </div>
           <div class ="w-[568px] h-[160px] absolute left-[0px] top-[337px] font-[Poppins] text-[22px] leading-[180%] text-[#696984] ">
             Class has a dynamic set of teaching tools built to be deployed and used during class.
@@ -656,51 +656,91 @@
           <div class ="text-[24px] absolute right-0 top-0 font-[Roboto] font-medium text-[#00BCD4]">See all &nbsp;&nbsp;&nbsp; <span><el-icon><Right /></el-icon></span></div>
           <ul class ="flex justify-between relative ">
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[orange] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#FF8374] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#B45A1B] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#FFB300] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#C583FF] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#00A8FF] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#6DB4A7] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[orange] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <div class ="w-[1682.7242431640625px] h-[82.2957534790039px] absolute right-0 bottom-0 bg-[#000000] opacity-5  rounded-[29.5px]">
@@ -714,56 +754,97 @@
           <div class ="text-[24px] absolute right-0 top-0 font-[Roboto] font-medium text-[#00BCD4]">See all &nbsp;&nbsp;&nbsp; <span><el-icon><Right /></el-icon></span></div>
           <ul class ="flex justify-between relative ">
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[orange] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#FF8374] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#B45A1B] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#FFB300] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#C583FF] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#00A8FF] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#6DB4A7] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[orange] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <div class ="w-[1682.7242431640625px] h-[82.2957534790039px] absolute right-0 bottom-0 bg-[#000000] opacity-5  rounded-[29.5px]">
             </div>
           </ul>
+
 
         </div>
 
@@ -772,56 +853,97 @@
           <div class ="text-[24px] absolute right-0 top-0 font-[Roboto] font-medium text-[#00BCD4]">See all &nbsp;&nbsp;&nbsp; <span><el-icon><Right /></el-icon></span></div>
           <ul class ="flex justify-between relative ">
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[orange] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#FF8374] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#B45A1B] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#FFB300] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#C583FF] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#00A8FF] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[#6DB4A7] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <li>
-              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto]  transform rotate-[-10.02deg] origin-center
-                            text-[24px] font-medium text-[#FFFFFF] bg-[#FF6F00] rounded-[24px]">
-                Ut Sed Eros
+              <div class=" w-[104.39px] h-[418.43px]  font-[Roboto] relative  transform rotate-[-10.02deg]
+                            text-[24px] font-medium text-[#FFFFFF] bg-[white] rounded-[24px]">
+                <div class ="bg-[#D8F9ED] w-[80.73150538760282px] absolute top-[20px] left-[14.11px] h-[382.16225905600623px] rounded-[24px]
+                transform rotate-[-2.0deg] ">
+                  <div class ="bg-[orange] w-[62.63651201147862px] absolute top-[26px] left-[9.11px] h-[319.39834351778956px] rounded-[24px]
+                transform rotate-[-1.0deg] "> Ut Sed Eros</div>
+                </div>
+
               </div>
             </li>
             <div class ="w-[1682.7242431640625px] h-[82.2957534790039px] absolute right-0 bottom-0 bg-[#000000] opacity-5  rounded-[29.5px]">
             </div>
           </ul>
+
 
         </div>
 
