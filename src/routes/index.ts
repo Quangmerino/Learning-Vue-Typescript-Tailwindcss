@@ -5,12 +5,14 @@ import errorRoutes from "@/routes/error.routes.ts";
 import homeRoutes from "@/routes/home.ts";
 import authRoutes from "@/routes/auth.ts";
 import blogRoutes from "@/routes/blog.ts";
+import memberRoutes from "@/routes/member.ts";
 
 const routes: RouteRecordRaw[] = [
     errorRoutes,
     authRoutes,
     homeRoutes,
-    blogRoutes
+    blogRoutes,
+    memberRoutes
 ]
 
 const router = createRouter({
