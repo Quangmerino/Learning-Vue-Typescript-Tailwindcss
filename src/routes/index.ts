@@ -4,11 +4,13 @@ import type {RouteRecordRaw} from 'vue-router'
 import errorRoutes from "@/routes/error.routes.ts";
 import homeRoutes from "@/routes/home.ts";
 import authRoutes from "@/routes/auth.ts";
+import blogRoutes from "@/routes/blog.ts";
 
 const routes: RouteRecordRaw[] = [
     errorRoutes,
     authRoutes,
-    homeRoutes
+    homeRoutes,
+    blogRoutes
 ]
 
 const router = createRouter({
