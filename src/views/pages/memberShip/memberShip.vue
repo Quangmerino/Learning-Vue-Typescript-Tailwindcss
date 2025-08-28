@@ -14,12 +14,9 @@
         <div class="text-[#49BBBD] font-bold text-[15px] p-[10px] sm:p-[20px]">Like a pussy</div>
         <div> <span class="text-[30px] p-[10px] font-bold sm:text-[48px]  sm:pl-[40px]">Free</span> /
           forever</div>
-        <div class=" text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Components-driven system</div>
-        <div class=" text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Sales-boosting landing pages</div>
-        <div class=" text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Awesome Feather icons pack</div>
+        <div class=" text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon><CircleCheckFilled /></el-icon> Components-driven system</div>
+        <div class=" text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon><CircleCheckFilled /></el-icon> Sales-boosting landing pages</div>
+        <div class=" text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon><CircleCheckFilled /></el-icon> Awesome Feather icons pack</div>
         <div
             class=" mt-[105px] text-center border flex justify-center sm:ml-[32px] sm:p-[5px] rounded-[20px] sm:w-[306px]">
           Try for free</div>
@@ -29,16 +26,11 @@
         <div class="text-[#49BBBD] font-bold text-[15px] p-[10px] sm:p-[20px]">👤 Individual</div>
         <div> <span class="text-[30px] sm:pl-[40px] p-[10px] font-bold sm:text-[48px]">$24</span> / month
         </div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Components-driven system</div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Sales-boosting landing pages</div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Awesome Feather icons pack</div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Themed into 3 different styles</div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Will help to learn Figma</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="yellow"><CircleCheckFilled /></el-icon> Components-driven system</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="yellow"><CircleCheckFilled /></el-icon> Sales-boosting landing pages</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="yellow"><CircleCheckFilled /></el-icon> Awesome Feather icons pack</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="yellow"><CircleCheckFilled /></el-icon> Themed into 3 different styles</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="yellow"><CircleCheckFilled /></el-icon> Will help to learn Figma</div>
         <div
             class=" mt-[20px] text-center bg-[#49BBBD] flex justify-center sm:ml-[32px]  sm:p-[5px] rounded-[20px] sm:w-[306px]">
           Regular license</div>
@@ -47,14 +39,10 @@
         <div class="text-[#49BBBD] font-bold text-[15px] p-[10px] sm:p-[20px]">👥 Corporate</div>
         <div> <span class="text-[30px] p-[10px] sm:pl-[40px] font-bold sm:text-[48px]">$12</span> / editor
         </div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Components-driven system</div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Sales-boosting landing pages</div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Awesome Feather icons pack</div>
-        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><i
-            class="fa-chisel fa-regular fa-check "></i> Themed into 3 different styles</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="green"><CircleCheckFilled /></el-icon> Components-driven system</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="green"><CircleCheckFilled /></el-icon> Sales-boosting landing pages</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="green"><CircleCheckFilled /></el-icon> Awesome Feather icons pack</div>
+        <div class="text-[#2D3436] py-[10px] sm:text-[18px] sm:pl-[40px]"><el-icon color="green"><CircleCheckFilled /></el-icon> Themed into 3 different styles</div>
         <div
             class="mt-[65px] text-center border flex justify-center sm:ml-[32px] sm:p-[5px] rounded-[20px] sm:w-[306px]">
           Extended license</div>
