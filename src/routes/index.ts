@@ -6,13 +6,15 @@ import homeRoutes from "@/routes/home.ts";
 import authRoutes from "@/routes/auth.ts";
 import blogRoutes from "@/routes/blog.ts";
 import memberRoutes from "@/routes/member.ts";
+import testRoutes from "@/routes/test.ts";
 
 const routes: RouteRecordRaw[] = [
     errorRoutes,
     authRoutes,
     homeRoutes,
     blogRoutes,
-    memberRoutes
+    memberRoutes,
+    testRoutes,
 ]
 
 const router = createRouter({

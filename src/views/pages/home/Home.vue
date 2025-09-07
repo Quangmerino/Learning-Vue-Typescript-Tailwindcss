@@ -390,14 +390,30 @@
 
     </div>
   </section>
-
-
-<!--    </div>-->
-
-
-<!--  </div>-->
 </template>
 
 <script setup lang="ts">
+import {onMounted, ref} from "vue";
+//constant
+const data = ref([])
+//function
+const getListTodo = async() => {
+  const response = await fetch('https://jsonplaceholder.typicode.com/posts')
+  const res = await response.json();
+  // console.log(res, 'data1')
+  data.value = res.map((item: any) => {
+    return {
+      id : item.id,
+      name: item.name,
+      title: item.title,
+      content : item.body,
+      userId : item.userId + 1000,
+    }
+  });
+  console.log(data.value, 'data');
+}
 
+onMounted( () => {
+  getListTodo()
+})
 </script>
